@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rahul\\Downloads\\Mapping_one_to_Many\\Mapping_one_to_Many\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44A3FF1D-A1D3-413D-B038-308C77669378}|Mapping_one_to_Many\\Mapping_one_to_Many.csproj|c:\\users\\rahul\\downloads\\mapping_one_to_many\\mapping_one_to_many\\mapping_one_to_many\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A3FF1D-A1D3-413D-B038-308C77669378}|Mapping_one_to_Many\\Mapping_one_to_Many.csproj|solutionrelative:mapping_one_to_many\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A3FF1D-A1D3-413D-B038-308C77669378}|Mapping_one_to_Many\\Mapping_one_to_Many.csproj|c:\\users\\rahul\\downloads\\mapping_one_to_many\\mapping_one_to_many\\mapping_one_to_many\\migrations\\20250126064705_update1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A3FF1D-A1D3-413D-B038-308C77669378}|Mapping_one_to_Many\\Mapping_one_to_Many.csproj|solutionrelative:mapping_one_to_many\\migrations\\20250126064705_update1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A3FF1D-A1D3-413D-B038-308C77669378}|Mapping_one_to_Many\\Mapping_one_to_Many.csproj|c:\\users\\rahul\\downloads\\mapping_one_to_many\\mapping_one_to_many\\mapping_one_to_many\\model\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A3FF1D-A1D3-413D-B038-308C77669378}|Mapping_one_to_Many\\Mapping_one_to_Many.csproj|solutionrelative:mapping_one_to_many\\model\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A3FF1D-A1D3-413D-B038-308C77669378}|Mapping_one_to_Many\\Mapping_one_to_Many.csproj|c:\\users\\rahul\\downloads\\mapping_one_to_many\\mapping_one_to_many\\mapping_one_to_many\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A3FF1D-A1D3-413D-B038-308C77669378}|Mapping_one_to_Many\\Mapping_one_to_Many.csproj|solutionrelative:mapping_one_to_many\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A3FF1D-A1D3-413D-B038-308C77669378}|Mapping_one_to_Many\\Mapping_one_to_Many.csproj|c:\\users\\rahul\\downloads\\mapping_one_to_many\\mapping_one_to_many\\mapping_one_to_many\\model\\entity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A3FF1D-A1D3-413D-B038-308C77669378}|Mapping_one_to_Many\\Mapping_one_to_Many.csproj|solutionrelative:mapping_one_to_many\\model\\entity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250126064705_update1.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\Downloads\\Mapping_one_to_Many\\Mapping_one_to_Many\\Mapping_one_to_Many\\Migrations\\20250126064705_update1.cs",
+              "RelativeDocumentMoniker": "Mapping_one_to_Many\\Migrations\\20250126064705_update1.cs",
+              "ToolTip": "C:\\Users\\rahul\\Downloads\\Mapping_one_to_Many\\Mapping_one_to_Many\\Mapping_one_to_Many\\Migrations\\20250126064705_update1.cs",
+              "RelativeToolTip": "Mapping_one_to_Many\\Migrations\\20250126064705_update1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:47:06.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\Downloads\\Mapping_one_to_Many\\Mapping_one_to_Many\\Mapping_one_to_Many\\Model\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "Mapping_one_to_Many\\Model\\Entity\\Employee.cs",
+              "ToolTip": "C:\\Users\\rahul\\Downloads\\Mapping_one_to_Many\\Mapping_one_to_Many\\Mapping_one_to_Many\\Model\\Entity\\Employee.cs",
+              "RelativeToolTip": "Mapping_one_to_Many\\Model\\Entity\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:43:43.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\Downloads\\Mapping_one_to_Many\\Mapping_one_to_Many\\Mapping_one_to_Many\\Model\\Entity\\Address.cs",
+              "RelativeDocumentMoniker": "Mapping_one_to_Many\\Model\\Entity\\Address.cs",
+              "ToolTip": "C:\\Users\\rahul\\Downloads\\Mapping_one_to_Many\\Mapping_one_to_Many\\Mapping_one_to_Many\\Model\\Entity\\Address.cs",
+              "RelativeToolTip": "Mapping_one_to_Many\\Model\\Entity\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:12:54.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\Downloads\\Mapping_one_to_Many\\Mapping_one_to_Many\\Mapping_one_to_Many\\DTO\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Mapping_one_to_Many\\DTO\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\rahul\\Downloads\\Mapping_one_to_Many\\Mapping_one_to_Many\\Mapping_one_to_Many\\DTO\\EmployeeDto.cs",
+              "RelativeToolTip": "Mapping_one_to_Many\\DTO\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:41:26.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\Downloads\\Mapping_one_to_Many\\Mapping_one_to_Many\\Mapping_one_to_Many\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Mapping_one_to_Many\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\rahul\\Downloads\\Mapping_one_to_Many\\Mapping_one_to_Many\\Mapping_one_to_Many\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Mapping_one_to_Many\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAkwIYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:19:39.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

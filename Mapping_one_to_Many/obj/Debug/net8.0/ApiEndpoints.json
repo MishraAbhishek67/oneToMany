@@ -1,0 +1,107 @@
+[
+  {
+    "ContainingType": "Mapping_one_to_Many.Controllers.EmployeeController",
+    "Method": "Delete",
+    "RelativePath": "DeleteEmployee{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mapping_one_to_Many.Controllers.EmployeeController",
+    "Method": "GetAll",
+    "RelativePath": "GetAllEmployee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mapping_one_to_Many.Controllers.EmployeeController",
+    "Method": "GetAllExcludingSoftDelete",
+    "RelativePath": "GetAllEmployeeExcludingSoftDeleted",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mapping_one_to_Many.Controllers.EmployeeController",
+    "Method": "GetById",
+    "RelativePath": "GetById{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mapping_one_to_Many.Controllers.EmployeeController",
+    "Method": "PostEmployee",
+    "RelativePath": "PostEmployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Mapping_one_to_Many.DTO.EmployeeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mapping_one_to_Many.Controllers.EmployeeController",
+    "Method": "SoftDelete",
+    "RelativePath": "SoftDelete{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mapping_one_to_Many.Controllers.EmployeeController",
+    "Method": "UpdateEmployee",
+    "RelativePath": "UpdateEmployee{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Mapping_one_to_Many.DTO.EmployeeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

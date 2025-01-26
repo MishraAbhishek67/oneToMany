@@ -1,0 +1,6 @@
+@Mapping_one_to_Many_HostAddress = http://localhost:5036
+
+GET {{Mapping_one_to_Many_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
