@@ -1,6 +1,8 @@
-﻿using Mapping_one_to_Many.Data;
+﻿using System.Linq;
+using Mapping_one_to_Many.Data;
 using Mapping_one_to_Many.DTO;
 using Mapping_one_to_Many.Model.Entity;
+using Mapping_one_to_Many.RTO;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -21,6 +23,12 @@ namespace Mapping_one_to_Many.Controllers
         [Route("PostEmployee")]
         public async Task<IActionResult> PostEmployee([FromBody] EmployeeDto dto)
         {
+
+            if(dto == null)
+            {
+                return BadRequest("Dto was null");
+            }
+
             var employeeData = new Employee()
             {
                 Name = dto.Name,
@@ -55,6 +63,10 @@ namespace Mapping_one_to_Many.Controllers
             {
                 return NotFound("Employee does not exists");
             }
+            if (dto == null)
+            {
+                return BadRequest("Dto was null");
+            }
             existingEmployee.Name = dto.Name;
             existingEmployee.Email = dto.Email;
             existingEmployee.Phone = dto.Phone;
@@ -74,12 +86,34 @@ namespace Mapping_one_to_Many.Controllers
 
         }
 
+        //[HttpGet]
+        //[Route("GetAllEmployee")]
+        //public async Task<IActionResult> GetAll()
+        //{
+        //    var allEmployee = await db.Employees.Include(a => a.Addresses).ToListAsync();
+        //    return Ok(allEmployee);
+        //}
+
         [HttpGet]
         [Route("GetAllEmployee")]
         public async Task<IActionResult> GetAll()
         {
-            var allEmployee = await db.Employees.Include(a => a.Addresses).ToListAsync();
-            return Ok(allEmployee);
+        
+            var employeeData = await db.Employees.Include(a => a.Addresses).Select(z => new EmployeeRto()
+            {
+                Name = z.Name,
+                Email = z.Email,
+                Phone = z.Phone,
+                Salary = z.Salary,
+                State = z.Addresses.FirstOrDefault().State,
+                Country = z.Addresses.FirstOrDefault().Country,
+                ZipCode = z.Addresses.FirstOrDefault().Zip_code,
+                City = z.Addresses.FirstOrDefault().City,
+                StreetAddress = z.Addresses.FirstOrDefault().Street_address
+            })
+              .ToListAsync();
+
+            return Ok(employeeData);
         }
 
         [HttpGet]

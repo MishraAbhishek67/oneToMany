@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mapping_one_to_Many")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b69d48720910138bd1e39fe361548c1369731ee6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mapping_one_to_Many")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mapping_one_to_Many")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "lT44o3/jF3GajlBqXpJWkPIl7lNe7PCBpKr4ENVM6PY=",
+  "Hash": "dITBUmeYPb/dHpDoLy8wEX1Dtj5TbMPwf39Gw9daI6I=",
   "Source": "Mapping_one_to_Many",
   "BasePath": "_content/Mapping_one_to_Many",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
