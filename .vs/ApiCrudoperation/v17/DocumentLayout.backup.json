@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|c:\\users\\abhishekmishra\\source\\repos\\apicrudoperation\\apicrudoperation\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|solutionrelative:apicrudoperation\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|c:\\users\\abhishekmishra\\source\\repos\\apicrudoperation\\apicrudoperation\\model\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|solutionrelative:apicrudoperation\\model\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|c:\\users\\abhishekmishra\\source\\repos\\apicrudoperation\\apicrudoperation\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|solutionrelative:apicrudoperation\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|c:\\users\\abhishekmishra\\source\\repos\\apicrudoperation\\apicrudoperation\\model\\entity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|solutionrelative:apicrudoperation\\model\\entity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|c:\\users\\abhishekmishra\\source\\repos\\apicrudoperation\\apicrudoperation\\model\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|solutionrelative:apicrudoperation\\model\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|c:\\users\\abhishekmishra\\source\\repos\\apicrudoperation\\apicrudoperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|solutionrelative:apicrudoperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|c:\\users\\abhishekmishra\\source\\repos\\apicrudoperation\\apicrudoperation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|solutionrelative:apicrudoperation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|c:\\users\\abhishekmishra\\source\\repos\\apicrudoperation\\apicrudoperation\\model\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|solutionrelative:apicrudoperation\\model\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|c:\\users\\abhishekmishra\\source\\repos\\apicrudoperation\\apicrudoperation\\migrations\\20250122091045_mid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|solutionrelative:apicrudoperation\\migrations\\20250122091045_mid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|c:\\users\\abhishekmishra\\source\\repos\\apicrudoperation\\apicrudoperation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|solutionrelative:apicrudoperation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|c:\\users\\abhishekmishra\\source\\repos\\apicrudoperation\\apicrudoperation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|solutionrelative:apicrudoperation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|c:\\users\\abhishekmishra\\source\\repos\\apicrudoperation\\apicrudoperation\\apicrudoperation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA25AD69-3262-4141-A286-8D7B1ED0E727}|ApiCrudoperation\\ApiCrudoperation.csproj|solutionrelative:apicrudoperation\\apicrudoperation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "ApiCrudoperation\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "ApiCrudoperation\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAADwv2MAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:24:16.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\Model\\Entity\\Address.cs",
+              "RelativeDocumentMoniker": "ApiCrudoperation\\Model\\Entity\\Address.cs",
+              "ToolTip": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\Model\\Entity\\Address.cs",
+              "RelativeToolTip": "ApiCrudoperation\\Model\\Entity\\Address.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:30:11.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Applicationdbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\Data\\Applicationdbcontext.cs",
+              "RelativeDocumentMoniker": "ApiCrudoperation\\Data\\Applicationdbcontext.cs",
+              "ToolTip": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\Data\\Applicationdbcontext.cs",
+              "RelativeToolTip": "ApiCrudoperation\\Data\\Applicationdbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:59:06.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\Model\\AddEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "ApiCrudoperation\\Model\\AddEmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\Model\\AddEmployeeDTO.cs",
+              "RelativeToolTip": "ApiCrudoperation\\Model\\AddEmployeeDTO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA/wAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T05:30:31.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\Model\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "ApiCrudoperation\\Model\\Entity\\Employee.cs",
+              "ToolTip": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\Model\\Entity\\Employee.cs",
+              "RelativeToolTip": "ApiCrudoperation\\Model\\Entity\\Employee.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:48:09.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\Program.cs",
+              "RelativeDocumentMoniker": "ApiCrudoperation\\Program.cs",
+              "ToolTip": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\Program.cs",
+              "RelativeToolTip": "ApiCrudoperation\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:07:38.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiCrudoperation\\appsettings.json",
+              "ToolTip": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\appsettings.json",
+              "RelativeToolTip": "ApiCrudoperation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T09:07:40.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateEmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\Model\\UpdateEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "ApiCrudoperation\\Model\\UpdateEmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\Model\\UpdateEmployeeDTO.cs",
+              "RelativeToolTip": "ApiCrudoperation\\Model\\UpdateEmployeeDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA4wA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:33:20.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250122091045_mid.cs",
+              "DocumentMoniker": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\Migrations\\20250122091045_mid.cs",
+              "RelativeDocumentMoniker": "ApiCrudoperation\\Migrations\\20250122091045_mid.cs",
+              "ToolTip": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\Migrations\\20250122091045_mid.cs",
+              "RelativeToolTip": "ApiCrudoperation\\Migrations\\20250122091045_mid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:10:45.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ApiCrudoperation\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\appsettings.Development.json",
+              "RelativeToolTip": "ApiCrudoperation\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T11:40:53.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiCrudoperation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiCrudoperation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T09:24:08.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiCrudoperation.csproj",
+              "DocumentMoniker": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\ApiCrudoperation.csproj",
+              "RelativeDocumentMoniker": "ApiCrudoperation\\ApiCrudoperation.csproj",
+              "ToolTip": "C:\\Users\\AbhishekMishra\\source\\repos\\ApiCrudoperation\\ApiCrudoperation\\ApiCrudoperation.csproj",
+              "RelativeToolTip": "ApiCrudoperation\\ApiCrudoperation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T09:07:59.687Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
